@@ -1,22 +1,22 @@
 {
   "files": {
-    "app.js": "/static/js/app.843b06ed.chunk.js",
-    "app.js.map": "/static/js/app.843b06ed.chunk.js.map",
-    "runtime~app.js": "/static/js/runtime~app.27401809.js",
-    "runtime~app.js.map": "/static/js/runtime~app.27401809.js.map",
-    "static/js/2.f8b368eb.chunk.js": "/static/js/2.f8b368eb.chunk.js",
-    "static/js/2.f8b368eb.chunk.js.map": "/static/js/2.f8b368eb.chunk.js.map",
-    "favicon-16.png": "/favicon-16.png",
-    "favicon-32.png": "/favicon-32.png",
-    "favicon.ico": "/favicon.ico",
-    "index.html": "/index.html",
-    "manifest.json": "/manifest.json",
-    "serve.json": "/serve.json",
-    "static/js/2.f8b368eb.chunk.js.LICENSE.txt": "/static/js/2.f8b368eb.chunk.js.LICENSE.txt",
-    "static/media/orderLoading.gif": "/static/media/orderLoading.82efa8e1.gif"
+    "app.js": "/delivery-app-clone/static/js/app.843b06ed.chunk.js",
+    "app.js.map": "/delivery-app-clone/static/js/app.843b06ed.chunk.js.map",
+    "runtime~app.js": "/delivery-app-clone/static/js/runtime~app.b7808aac.js",
+    "runtime~app.js.map": "/delivery-app-clone/static/js/runtime~app.b7808aac.js.map",
+    "static/js/2.f8b368eb.chunk.js": "/delivery-app-clone/static/js/2.f8b368eb.chunk.js",
+    "static/js/2.f8b368eb.chunk.js.map": "/delivery-app-clone/static/js/2.f8b368eb.chunk.js.map",
+    "favicon-16.png": "/delivery-app-clone/favicon-16.png",
+    "favicon-32.png": "/delivery-app-clone/favicon-32.png",
+    "favicon.ico": "/delivery-app-clone/favicon.ico",
+    "index.html": "/delivery-app-clone/index.html",
+    "manifest.json": "/delivery-app-clone/manifest.json",
+    "serve.json": "/delivery-app-clone/serve.json",
+    "static/js/2.f8b368eb.chunk.js.LICENSE.txt": "/delivery-app-clone/static/js/2.f8b368eb.chunk.js.LICENSE.txt",
+    "static/media/orderLoading.gif": "/delivery-app-clone/static/media/orderLoading.82efa8e1.gif"
   },
   "entrypoints": [
-    "static/js/runtime~app.27401809.js",
+    "static/js/runtime~app.b7808aac.js",
     "static/js/2.f8b368eb.chunk.js",
     "static/js/app.843b06ed.chunk.js"
   ]
